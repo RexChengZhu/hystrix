@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hystrix" />
+        <module name="hystrix-provider" />
+        <module name="hystrix-consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
